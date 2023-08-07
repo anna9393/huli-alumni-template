@@ -8,4 +8,4 @@ LinkedIn: {https://www.linkedin.com/in/annakasikova/}
 Email: {kasikova.ann@gmail.com}
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+{Quiz-App}: {https://github.com/anna9393/Quiz-app}
